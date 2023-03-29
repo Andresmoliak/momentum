@@ -1,0 +1,86 @@
+{ "en" : [
+{ 
+    "quote" : "Each man lived his own life, and paid his own price for living it.",
+    "author" : "Oscar Wilde"
+},
+{
+    "quote" : "Life's not about waiting for the storm to pass... it's about learning to dance in the rain.",
+    "author" : "Vivan Green"
+},
+{
+    "quote" : "There's a day when you realize that you're not just a survivor, you're a warrior. You're tougher than anything life throws your way.",
+    "author" : "Brooke Davis"
+},
+{
+    "quote" : "Success is the ability to go from failure to failure without losing your enthusiasm.",
+    "author" : "Winston Churchill"
+},
+{
+    "quote" : "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
+    "author" : "Marilyn Monroe"
+},
+{
+    "quote" : "Love is a friendship set to music.",
+    "author" : "Joseph Campbell"
+},
+{
+    "quote" : "Only two things we'll regret on deathbed: that we are a little loved and little traveled.",
+    "author" : "Mark Twain"
+},
+{
+    "quote" : "And now here is my secret, a very simple secret: it is only with the heart that one can see rightly, what is essential is invisible to the eye.",
+    "author" : "Antoine de Saint Exupery"
+},
+{
+    "quote" : "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "author" : "Albert Einstein"
+},
+{
+    "quote" : "Success doesn't come to you… you go to it.",
+    "author" : "Marva Collins"
+}
+],
+"ru" : 
+[
+{ 
+    "quote" : "Каждый человек проживает свою собственную жизнь, и платит свою собственную плату за прожитое.",
+    "author" : "Оскар Уайльд"
+},
+{
+    "quote" : "Жизнь это не ожидание, когда пройдет шторм... Это умение танцевать под дождём .",
+    "author" : "Вивиан Грин"
+},
+{
+    "quote" : "Придёт день, когда ты поймёшь, что ты не просто жертва - ты боец, который справится со всеми своими бедами.",
+    "author" : "Брук Дэвиз"
+},
+{
+    "quote" : "Успех это умение двигаться от провала к провалу без потери энтузиазма.",
+    "author" : "Уинстон Черчиль"
+},
+{
+    "quote" : "Улыбайтесь, ведь жизнь прекрасна и в ней есть так много всего радостного.",
+    "author" : "Мэрилин Монро"
+},
+{
+    "quote" : "Любовь - это дружба, положенная на музыку.",
+    "author" : "Йозеф Кэмпбэл"
+},
+{
+    "quote" : "Только две вещи будут волновать нас на смертном одре, что мало любили и мало путешествовали.",
+    "author" : "Марк Твен"
+},
+{
+    "quote" : "Сейчас открою вам свой секрет, это очень простой секрет: только сердце знает правильный путь, который не увидеть зрением.",
+    "author" : "Антуан де-Сент-Экзюпери"
+},
+{
+    "quote" : "Две вещи бесконечны: вселенная и людская глупость; и я ещё не уверен насчёт вселенной.",
+    "author" : "Альберт Эйнштейн"
+},
+{
+    "quote" : "Успех не приходит к тебе… ты идёшь к нему.",
+    "author" : "Марва Коллинз"
+} 
+]
+}
