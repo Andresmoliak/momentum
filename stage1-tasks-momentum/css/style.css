@@ -418,7 +418,7 @@ height: 18px;
 .progress-bar{
   top: auto;
   bottom: 0px;
-  left: 0px;
+  left: 0rem;
 }
 .duration{
   bottom: -10px;
